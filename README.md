@@ -47,8 +47,6 @@ I’m always open to chatting about **tech, research, or even puzzles** 🧩.
   <a href="https://www.linkedin.com/in/mahra-al-mansoori/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
-</p>
-<p align="left">
   <a href="mailto:almansoorimahra05@gmail.com">
     <img src="https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail" alt="Email"/>
   </a>
