@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -14,10 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## About Me
-👩🏻‍💻 Wrapping up my BS in Computer Science @ UAEU  
-💡 I see code not just as a technical skill, but as a way to understand and build intelligent, structured solutions.
-
+## I'm Mahra Al Mansoori
+### 👩🏻‍💻 Wrapping up my BS in Computer Science @ UAEU  
+### 💡 I see code not just as a technical skill, but as a way to understand and build intelligent, structured solutions.  
+### 🚀 Currently working on my Graduation Project  
+### 🌱 I’m currently learning **Natural Language Processing** and **Smart Computer Graphics**  
 ---
 ## 🛠 Teck Stack & Tools
 | Category | Stack |
